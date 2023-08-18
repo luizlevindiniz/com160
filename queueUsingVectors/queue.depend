@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1690999712 source:c:\users\user\desktop\com160\queue\main.cpp
+	<iostream>
+	"queue.h"
+
+1691164207 c:\users\user\desktop\com160\queue\queue.h
+
+1691164755 source:c:\users\user\desktop\com160\queue\queue.cpp
+	<iostream>
+	"queue.h"
+

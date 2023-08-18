@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1690990956 source:c:\users\user\desktop\com160\stack\stack.cpp
+	<iostream>
+	"stack.h"
+
+1690989216 c:\users\user\desktop\com160\stack\stack.h
+
+1690990906 source:c:\users\user\desktop\com160\stack\main.cpp
+	<iostream>
+	"stack.h"
+
+1691587044 source:c:\users\user\desktop\com160\stackusingvectors\main.cpp
+	<iostream>
+	"stack.h"
+
+1691586915 c:\users\user\desktop\com160\stackusingvectors\stack.h
+
+1691587034 source:c:\users\user\desktop\com160\stackusingvectors\stack.cpp
+	<iostream>
+	"stack.h"
+
